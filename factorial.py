@@ -10,4 +10,4 @@ while 1:
     elif not num.isnumeric() or int(num)<0:
         print("Enter a positive integer")
     else:
-        print(fact(int(num)));;;;;;;;;;;
+        print(fact(int(num)))
